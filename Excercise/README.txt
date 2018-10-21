@@ -1,4 +1,4 @@
-Configuration Setps:
+Configuration Setps :
 
 Install Maven Repo
 Import project as Maven Project in any IDE(Eclipse or IntelliJ)
